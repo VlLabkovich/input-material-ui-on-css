@@ -1,0 +1,33 @@
+.text-field {
+    position: relative;
+}
+
+input {
+    border: none;
+    border-bottom: 2px solid rgba(45, 42, 42, 0.87);
+    font-size: 1rem;
+    outline: none;
+}
+
+input:focus-visible {
+    border-color: #7474dc;
+}
+
+label {
+    position: absolute;
+    left: 2px;
+    transition: 0.2s;
+    color: rgba(45, 42, 42, 0.77);
+}
+
+input:focus + label,
+input:not(:placeholder-shown) + label {
+    transform: translateY(-1.5rem);
+    font-size: 0.8rem;
+    color: rgba(0, 0, 0, 0.94);
+}
+
+
+input::placeholder {
+    opacity: 0;
+}
