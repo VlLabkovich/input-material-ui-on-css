@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/input-material-ui-on-css/static/css/main.a42beeaf.css",
+    "main.js": "/input-material-ui-on-css/static/js/main.f3ecfd3a.js",
+    "static/js/787.eed388f5.chunk.js": "/input-material-ui-on-css/static/js/787.eed388f5.chunk.js",
+    "index.html": "/input-material-ui-on-css/index.html",
+    "main.a42beeaf.css.map": "/input-material-ui-on-css/static/css/main.a42beeaf.css.map",
+    "main.f3ecfd3a.js.map": "/input-material-ui-on-css/static/js/main.f3ecfd3a.js.map",
+    "787.eed388f5.chunk.js.map": "/input-material-ui-on-css/static/js/787.eed388f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a42beeaf.css",
+    "static/js/main.f3ecfd3a.js"
+  ]
+}
